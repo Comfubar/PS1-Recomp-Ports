@@ -1,0 +1,18 @@
+# game content and anything made from it: never commit
+disc/
+dumps/
+generated/
+*.bin
+*.cue
+*.iso
+*.chd
+*.pac
+*.sav
+
+# build output and local state
+bin/
+obj/
+*.exe
+*.zip
+logs/
+*.bak*
